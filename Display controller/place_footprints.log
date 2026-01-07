@@ -1,0 +1,2659 @@
+01-06 20:31:59 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 674:Plugin executed on: 'linux'
+01-06 20:31:59 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 675:Plugin executed with python version: '3.10.12 (main, Aug 15 2025, 14:32:43) [GCC 11.4.0]'
+01-06 20:31:59 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 676:KiCad build version: 9.0.6-9.0.6~ubuntu22.04.1
+01-06 20:31:59 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 677:Plugin version: 4.0.1
+01-06 20:31:59 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 678:Frame repr: <wx._core.Frame object at 0x7f2ec8456ef0>
+01-06 20:33:35 kicad_partsplacer-pcm 400:Loading kicad_partsplacer
+01-06 20:54:56 kicad_partsplacer-pcm 400:Loading kicad_partsplacer
+01-06 20:54:57 board2pdf 31:File: /home/combs/.local/share/kicad/9.0/3rdparty//plugins/com_gitlab_dennevi_Board2Pdf/board2pdf_action.py	Version: 1.9.2
+01-06 20:55:03 svg2mod 1301:Font "mplus-1mn-medium" does not natively support style "Regular" using "Path" instead
+01-06 20:55:06 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:17 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:20 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:20 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:20 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:20 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:20 svg2mod 351:  Writing Text with 40 points
+01-06 20:55:20 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:20 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:20 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:20 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:20 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:20 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:20 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:20 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:20 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:20 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:20 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:20 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:20 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:20 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:20 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:21 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:21 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:21 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:21 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:21 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:21 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:21 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:21 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:21 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:21 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:21 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:21 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:21 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:21 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:21 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:21 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:21 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:21 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:21 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:21 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:21 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:21 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:21 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:21 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:21 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:21 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:21 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:21 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:21 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:21 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:21 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:21 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:21 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:22 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:22 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:22 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:22 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:22 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:22 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:22 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:22 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:22 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:22 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:22 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:22 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:22 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:23 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:23 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:23 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:23 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:23 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:23 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:23 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:23 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:23 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:23 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:23 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:23 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:23 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:23 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:23 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:23 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:23 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:23 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:23 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:23 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:24 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:24 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:24 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:24 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:24 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:24 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:24 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:24 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:24 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:24 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:24 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:24 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:24 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:24 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:24 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:24 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:24 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:24 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:24 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:24 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:24 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:24 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:24 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:24 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:24 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:24 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:24 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:24 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:24 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:24 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:24 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:24 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:24 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:25 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:25 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:25 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:25 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:25 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:25 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:25 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:25 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:25 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:25 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:25 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:25 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:25 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:25 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:25 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:25 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:25 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:25 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:25 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:25 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:26 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:26 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:26 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:26 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:26 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:26 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:26 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:26 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:26 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:26 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:26 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:26 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:26 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:26 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:26 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:26 com_github_gregdavill_KiBuzzard.plugin 60:Running KiBuzzard
+01-06 20:55:26 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:26 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:26 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:26 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:26 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:26 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:26 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:26 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:26 com_github_gregdavill_KiBuzzard.plugin 74:Loading label onto clipboard
+01-06 20:55:26 com_github_gregdavill_KiBuzzard.plugin 135:Using wx.KeyEvent for paste
+01-06 20:55:26 com_github_gregdavill_KiBuzzard.plugin 139: Injecting event: <wx._core.KeyEvent object at 0x7f2e4c5e12d0> into window: <wx._core.Window object at 0x7f2e4be96c20>
+01-06 20:55:30 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:33 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:33 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:33 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:33 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:33 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:33 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:33 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:33 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:33 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:33 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:33 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:33 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:33 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:34 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:34 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:34 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:34 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:34 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:34 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:34 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:34 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:34 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:34 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:34 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:34 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:34 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:34 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:34 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:34 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:34 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:34 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:34 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:34 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:34 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:34 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:34 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:34 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:34 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:34 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:34 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:34 svg2mod 339:  Writing Text with 32 points
+01-06 20:55:35 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:35 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:35 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:35 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:35 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:35 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:35 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:35 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:35 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:35 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:35 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:35 svg2mod 339:  Writing Text with 32 points
+01-06 20:55:36 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:36 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:36 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:36 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:36 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:36 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:36 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:36 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:36 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:36 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:36 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:36 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:36 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:36 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:36 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:36 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:36 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:36 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:36 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:36 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:36 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:37 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:37 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:37 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:37 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:37 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:37 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:37 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:37 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:37 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:37 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:37 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:37 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:37 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:37 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:37 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:37 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:37 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:37 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:37 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:37 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:37 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:37 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:37 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:37 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:37 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:37 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:37 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:37 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:37 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:37 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:37 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:37 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:37 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:37 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:37 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:37 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:37 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:37 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:37 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:38 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:38 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:38 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:38 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:38 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:38 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:38 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:38 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:38 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:38 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:38 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:38 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:38 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:38 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:38 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:38 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:38 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:38 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:38 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:38 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:38 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:38 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:38 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:38 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:38 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:39 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:39 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:39 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:39 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:39 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:39 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:39 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:39 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:39 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:39 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:39 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:39 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:39 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:39 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:39 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:39 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:39 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:39 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:39 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:39 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:39 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:39 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:40 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:40 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:40 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:40 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:40 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:40 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:40 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:40 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:40 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:40 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:40 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:40 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:40 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:40 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:40 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:40 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:40 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:40 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:42 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:42 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:42 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:42 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:42 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:42 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:42 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:42 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:42 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:42 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:42 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:42 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:42 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:42 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:42 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:42 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:42 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:42 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:42 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:42 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:42 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:42 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:42 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:42 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:42 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:42 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:42 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:42 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:42 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:42 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:43 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:43 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:43 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:43 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:43 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:43 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:43 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:43 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:43 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:43 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:43 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:43 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:43 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:43 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:43 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:43 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:44 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:44 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:44 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:44 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:44 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:44 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:44 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:44 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:44 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:44 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:44 svg2mod 339:  Writing Text with 9 points
+01-06 20:55:44 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:44 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:44 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:44 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:44 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:44 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:44 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:44 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:44 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:44 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:44 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:44 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:44 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:44 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:44 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:44 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:44 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:45 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:45 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:45 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:45 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:45 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:45 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:45 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:45 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:45 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:45 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:45 svg2mod 339:  Writing Text with 9 points
+01-06 20:55:45 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:45 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:45 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:45 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:45 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:45 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:45 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:45 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:45 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:45 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:45 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:45 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:45 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:45 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:45 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:45 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:45 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:46 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:46 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 9 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:46 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:46 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:46 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:46 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:46 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:46 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:46 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:46 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:46 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:46 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 9 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:46 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:46 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:46 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:46 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:46 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:46 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:46 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:46 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:46 svg2mod 304:  Inlining 2 segments...
+01-06 20:55:46 svg2mod 339:  Writing Text with 53 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:46 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:47 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:47 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:47 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 9 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:47 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:47 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:47 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:47 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:47 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:47 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:47 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:47 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:47 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:47 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:47 svg2mod 304:  Inlining 2 segments...
+01-06 20:55:47 svg2mod 339:  Writing Text with 53 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:47 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:47 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:47 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 9 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:47 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:47 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:47 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:47 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:47 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:47 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:47 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:47 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:47 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:47 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:47 svg2mod 304:  Inlining 2 segments...
+01-06 20:55:47 svg2mod 339:  Writing Text with 53 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:47 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:47 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:48 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:48 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:48 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:48 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 9 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:48 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:48 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:48 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:48 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:48 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:48 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:48 svg2mod 304:  Inlining 2 segments...
+01-06 20:55:48 svg2mod 339:  Writing Text with 53 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:48 svg2mod 339:  Writing Text with 7 points
+01-06 20:55:54 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:54 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:54 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:54 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:54 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:54 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:54 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:54 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:54 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:54 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:54 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:54 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:54 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:54 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:54 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 9 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:54 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:54 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:54 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:54 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:54 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:54 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:54 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:54 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:54 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:54 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:54 svg2mod 304:  Inlining 2 segments...
+01-06 20:55:54 svg2mod 339:  Writing Text with 53 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:54 svg2mod 339:  Writing Text with 7 points
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:58 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:58 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:58 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 9 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:58 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:58 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:58 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:58 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:58 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:58 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:58 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:58 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:58 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:58 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:58 svg2mod 304:  Inlining 2 segments...
+01-06 20:55:58 svg2mod 339:  Writing Text with 53 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 7 points
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:58 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:58 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:58 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:58 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 9 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:58 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:58 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:58 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:58 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:58 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:58 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:58 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:58 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:58 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:58 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:58 svg2mod 304:  Inlining 2 segments...
+01-06 20:55:58 svg2mod 339:  Writing Text with 53 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:58 svg2mod 339:  Writing Text with 7 points
+01-06 20:55:59 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:59 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:59 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:59 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:59 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:59 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:59 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:59 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:59 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:59 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:59 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:55:59 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:55:59 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:55:59 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:59 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 40 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 9 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 48 points
+01-06 20:55:59 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:59 svg2mod 339:  Writing Text with 42 points
+01-06 20:55:59 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:59 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:59 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:59 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:59 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:59 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:59 svg2mod 304:  Inlining 1 segments...
+01-06 20:55:59 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 37 points
+01-06 20:55:59 svg2mod 304:  Inlining 2 segments...
+01-06 20:55:59 svg2mod 339:  Writing Text with 53 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 39 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 16 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 23 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 13 points
+01-06 20:55:59 svg2mod 339:  Writing Text with 7 points
+01-06 20:56:00 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:00 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:00 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:00 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:00 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:00 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:00 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:00 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:00 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:00 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:00 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:01 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:56:01 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:56:01 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:01 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:01 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:01 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:01 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:01 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:01 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:01 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:01 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:01 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:01 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:01 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:01 svg2mod 304:  Inlining 2 segments...
+01-06 20:56:01 svg2mod 339:  Writing Text with 53 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 16 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 7 points
+01-06 20:56:01 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:01 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:01 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:01 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:01 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:01 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:01 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:01 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:01 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:01 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:01 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:01 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:56:01 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:56:01 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:01 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:01 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:01 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:01 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:01 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:01 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:01 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:01 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:01 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:01 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:01 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:01 svg2mod 304:  Inlining 2 segments...
+01-06 20:56:01 svg2mod 339:  Writing Text with 53 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 16 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:01 svg2mod 339:  Writing Text with 7 points
+01-06 20:56:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:04 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:56:04 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:56:04 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:04 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:04 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:04 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:04 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:04 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:04 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:04 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:04 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:04 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:04 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:04 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:04 svg2mod 304:  Inlining 2 segments...
+01-06 20:56:04 svg2mod 339:  Writing Text with 53 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 16 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:04 svg2mod 339:  Writing Text with 7 points
+01-06 20:56:09 svg2mod 1301:Font "mplus-1mn-medium" does not natively support style "Regular" using "Path" instead
+01-06 20:56:09 svg2mod 1301:Font "mplus-1mn-medium" does not natively support style "Regular" using "Path" instead
+01-06 20:56:09 svg2mod 1301:Font "mplus-1mn-medium" does not natively support style "Regular" using "Path" instead
+01-06 20:56:09 svg2mod 1301:Font "mplus-1mn-medium" does not natively support style "Regular" using "Path" instead
+01-06 20:56:09 svg2mod 1301:Font "mplus-1mn-medium" does not natively support style "Regular" using "Path" instead
+01-06 20:56:09 svg2mod 1301:Font "mplus-1mn-medium" does not natively support style "Regular" using "Path" instead
+01-06 20:56:09 svg2mod 1301:Font "mplus-1mn-medium" does not natively support style "Regular" using "Path" instead
+01-06 20:56:09 svg2mod 1301:Font "mplus-1mn-medium" does not natively support style "Regular" using "Path" instead
+01-06 20:56:09 svg2mod 1301:Font "mplus-1mn-medium" does not natively support style "Regular" using "Path" instead
+01-06 20:56:09 svg2mod 1301:Font "mplus-1mn-medium" does not natively support style "Regular" using "Path" instead
+01-06 20:56:09 svg2mod 1301:Font "mplus-1mn-medium" does not natively support style "Regular" using "Path" instead
+01-06 20:56:10 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:56:10 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:56:10 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:10 svg2mod 339:  Writing Text with 16 points
+01-06 20:56:10 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:10 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:11 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:11 svg2mod 339:  Writing Text with 35 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:11 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:11 svg2mod 339:  Writing Text with 35 points
+01-06 20:56:11 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:11 svg2mod 339:  Writing Text with 35 points
+01-06 20:56:11 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:11 svg2mod 339:  Writing Text with 35 points
+01-06 20:56:11 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:11 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:11 svg2mod 304:  Inlining 2 segments...
+01-06 20:56:11 svg2mod 339:  Writing Text with 53 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 49 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 49 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 49 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 49 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 49 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 49 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 34 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 35 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 7 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:11 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:13 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+01-06 20:56:13 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+01-06 20:56:13 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+01-06 20:56:13 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+01-06 20:56:13 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+01-06 20:56:13 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+01-06 20:56:13 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+01-06 20:56:13 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+01-06 20:56:13 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+01-06 20:56:13 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+01-06 20:56:13 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+01-06 20:56:13 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:56:13 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:56:13 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:13 svg2mod 339:  Writing Text with 24 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 17 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 17 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 17 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 17 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 63 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 63 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 59 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 59 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 36 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 36 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 36 points
+01-06 20:56:13 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:13 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:13 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:13 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:13 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:13 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:13 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:13 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 30 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 67 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 67 points
+01-06 20:56:13 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:13 svg2mod 339:  Writing Text with 43 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 54 points
+01-06 20:56:13 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:13 svg2mod 339:  Writing Text with 50 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 59 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 59 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 59 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 59 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 25 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 49 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 18 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 19 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 19 points
+01-06 20:56:13 svg2mod 339:  Writing Text with 19 points
+01-06 20:56:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:15 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:56:15 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:56:15 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:15 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:15 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:15 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:15 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:15 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:15 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:15 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:15 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:15 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:15 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:15 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:15 svg2mod 304:  Inlining 2 segments...
+01-06 20:56:15 svg2mod 339:  Writing Text with 53 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 16 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:15 svg2mod 339:  Writing Text with 7 points
+01-06 20:56:18 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:18 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:18 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:18 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:18 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:18 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:18 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:18 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:18 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:18 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:18 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:18 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:56:18 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:56:18 svg2mod 304:  Inlining 32 segments...
+01-06 20:56:18 svg2mod 339:  Writing Text with 1327 points
+01-06 20:56:18 svg2mod 339:  Writing Text with 15 points
+01-06 20:56:18 svg2mod 339:  Writing Text with 15 points
+01-06 20:56:18 svg2mod 339:  Writing Text with 15 points
+01-06 20:56:18 svg2mod 339:  Writing Text with 15 points
+01-06 20:56:18 svg2mod 339:  Writing Text with 10 points
+01-06 20:56:18 svg2mod 339:  Writing Text with 11 points
+01-06 20:56:18 svg2mod 339:  Writing Text with 12 points
+01-06 20:56:18 svg2mod 339:  Writing Text with 11 points
+01-06 20:56:20 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:20 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:20 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:20 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:20 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:20 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:20 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:20 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:20 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:20 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:20 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:20 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:56:20 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:56:20 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:20 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:20 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:20 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:20 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:20 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:20 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:20 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:20 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:20 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:20 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:20 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:20 svg2mod 304:  Inlining 2 segments...
+01-06 20:56:20 svg2mod 339:  Writing Text with 53 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 16 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:20 svg2mod 339:  Writing Text with 7 points
+01-06 20:56:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:23 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:23 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:56:23 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:56:23 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:23 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:23 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:23 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:23 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:23 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:23 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:23 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:23 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:23 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:23 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:23 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:23 svg2mod 304:  Inlining 2 segments...
+01-06 20:56:23 svg2mod 339:  Writing Text with 53 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 16 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:23 svg2mod 339:  Writing Text with 7 points
+01-06 20:56:25 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:25 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:25 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:25 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:25 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:25 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:25 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:25 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:25 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:25 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:25 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:25 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:56:25 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:56:25 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:25 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:25 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:25 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:25 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:25 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:25 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:25 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:25 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:25 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:25 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:25 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:25 svg2mod 304:  Inlining 2 segments...
+01-06 20:56:25 svg2mod 339:  Writing Text with 53 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 16 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:25 svg2mod 339:  Writing Text with 7 points
+01-06 20:56:41 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:41 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:41 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:41 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:41 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:41 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:41 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:41 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:41 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:41 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:41 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:41 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:56:41 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:56:41 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:41 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:41 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:41 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:41 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:41 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:41 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:41 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:41 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:41 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:41 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:41 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:41 svg2mod 304:  Inlining 2 segments...
+01-06 20:56:41 svg2mod 339:  Writing Text with 53 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 16 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:41 svg2mod 339:  Writing Text with 7 points
+01-06 20:56:44 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:44 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:44 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:44 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:44 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:44 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:44 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:44 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:44 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:44 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:44 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:44 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:56:44 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:56:44 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:44 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:44 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:44 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:44 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:44 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:44 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:44 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:44 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:44 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:44 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:44 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:44 svg2mod 304:  Inlining 2 segments...
+01-06 20:56:44 svg2mod 339:  Writing Text with 53 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 16 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:44 svg2mod 339:  Writing Text with 7 points
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:56:45 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:56:45 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:45 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:45 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:45 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:45 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:45 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:45 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:45 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:45 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:45 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:45 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:45 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:45 svg2mod 304:  Inlining 2 segments...
+01-06 20:56:45 svg2mod 339:  Writing Text with 53 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 16 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 7 points
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:45 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:56:45 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:56:45 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:45 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:45 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:45 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:45 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:45 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:45 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:45 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:45 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:45 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:45 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:45 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:45 svg2mod 304:  Inlining 2 segments...
+01-06 20:56:45 svg2mod 339:  Writing Text with 53 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 16 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:45 svg2mod 339:  Writing Text with 7 points
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:56:48 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:56:48 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:48 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:48 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:48 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:48 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:48 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:48 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:48 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:48 svg2mod 304:  Inlining 2 segments...
+01-06 20:56:48 svg2mod 339:  Writing Text with 53 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 16 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 7 points
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:48 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:56:48 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:56:48 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:48 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:48 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:48 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:48 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:48 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:48 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:48 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:48 svg2mod 304:  Inlining 2 segments...
+01-06 20:56:48 svg2mod 339:  Writing Text with 53 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 16 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:48 svg2mod 339:  Writing Text with 7 points
+01-06 20:56:52 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:52 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:52 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:52 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:52 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:52 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:52 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:52 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:52 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:52 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:52 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:56:52 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:56:52 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:56:52 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:52 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:52 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:52 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:52 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:52 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:52 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:52 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:52 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:52 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:52 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:52 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:52 svg2mod 304:  Inlining 2 segments...
+01-06 20:56:52 svg2mod 339:  Writing Text with 53 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 16 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:52 svg2mod 339:  Writing Text with 7 points
+01-06 20:56:54 com_github_gregdavill_KiBuzzard.plugin 60:Running KiBuzzard
+01-06 20:56:54 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:56:54 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:56:54 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:54 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 40 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 9 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 48 points
+01-06 20:56:54 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:54 svg2mod 339:  Writing Text with 42 points
+01-06 20:56:54 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:54 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:54 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:54 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:54 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:54 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:54 svg2mod 304:  Inlining 1 segments...
+01-06 20:56:54 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 37 points
+01-06 20:56:54 svg2mod 304:  Inlining 2 segments...
+01-06 20:56:54 svg2mod 339:  Writing Text with 53 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 39 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 16 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 23 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 13 points
+01-06 20:56:54 svg2mod 339:  Writing Text with 7 points
+01-06 20:56:54 com_github_gregdavill_KiBuzzard.plugin 74:Loading label onto clipboard
+01-06 20:56:54 com_github_gregdavill_KiBuzzard.plugin 135:Using wx.KeyEvent for paste
+01-06 20:56:54 com_github_gregdavill_KiBuzzard.plugin 139: Injecting event: <wx._core.KeyEvent object at 0x7f2e5ef40b80> into window: <wx._core.Window object at 0x7f2e4b2ed5a0>
+01-06 20:57:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:57:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:57:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:57:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:57:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:57:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:57:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:57:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:57:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:57:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:57:03 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:57:03 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:57:03 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:57:03 svg2mod 304:  Inlining 1 segments...
+01-06 20:57:03 svg2mod 339:  Writing Text with 37 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 39 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 39 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 40 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 40 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 40 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 40 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 42 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 42 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 48 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 48 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 48 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 48 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 9 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 48 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 48 points
+01-06 20:57:03 svg2mod 304:  Inlining 1 segments...
+01-06 20:57:03 svg2mod 339:  Writing Text with 42 points
+01-06 20:57:03 svg2mod 304:  Inlining 1 segments...
+01-06 20:57:03 svg2mod 339:  Writing Text with 39 points
+01-06 20:57:03 svg2mod 304:  Inlining 1 segments...
+01-06 20:57:03 svg2mod 339:  Writing Text with 39 points
+01-06 20:57:03 svg2mod 304:  Inlining 1 segments...
+01-06 20:57:03 svg2mod 339:  Writing Text with 39 points
+01-06 20:57:03 svg2mod 304:  Inlining 1 segments...
+01-06 20:57:03 svg2mod 339:  Writing Text with 39 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 37 points
+01-06 20:57:03 svg2mod 304:  Inlining 2 segments...
+01-06 20:57:03 svg2mod 339:  Writing Text with 53 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 39 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 16 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 23 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 23 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 23 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 13 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 13 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 13 points
+01-06 20:57:03 svg2mod 339:  Writing Text with 7 points
+01-06 20:57:14 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:57:17 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:57:18 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:09 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:09 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:09 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:09 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:09 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:09 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:09 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:09 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:09 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:09 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:09 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:09 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:58:09 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:58:09 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:09 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 9 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:09 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:09 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:09 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:09 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:09 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:09 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:09 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:09 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:09 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:09 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:09 svg2mod 304:  Inlining 2 segments...
+01-06 20:58:09 svg2mod 339:  Writing Text with 53 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 16 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:09 svg2mod 339:  Writing Text with 7 points
+01-06 20:58:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:15 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:15 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:58:15 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:58:15 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:15 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 9 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:15 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:15 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:15 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:15 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:15 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:15 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:15 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:15 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:15 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:15 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:15 svg2mod 304:  Inlining 2 segments...
+01-06 20:58:15 svg2mod 339:  Writing Text with 53 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 16 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:15 svg2mod 339:  Writing Text with 7 points
+01-06 20:58:21 com_github_gregdavill_KiBuzzard.plugin 60:Running KiBuzzard
+01-06 20:58:21 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:58:21 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:58:21 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:21 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 9 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:21 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:21 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:21 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:21 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:21 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:21 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:21 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:21 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:21 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:21 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:21 svg2mod 304:  Inlining 2 segments...
+01-06 20:58:21 svg2mod 339:  Writing Text with 53 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 16 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:21 svg2mod 339:  Writing Text with 7 points
+01-06 20:58:21 com_github_gregdavill_KiBuzzard.plugin 84:Updating selected footprint <pcbnew.FOOTPRINT; proxy of <Swig Object of type 'std::deque< FOOTPRINT * >::value_type' at 0x7f2e5d0c9200> >
+01-06 20:58:21 com_github_gregdavill_KiBuzzard.plugin 92: pos: (94000000, 90000000)
+01-06 20:58:21 com_github_gregdavill_KiBuzzard.plugin 93: orient: 0.0
+01-06 20:58:21 com_github_gregdavill_KiBuzzard.plugin 94: need_flip: False
+01-06 20:58:28 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:29 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:29 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:29 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:29 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:29 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:29 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:29 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:29 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:29 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:29 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:29 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:30 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:58:30 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:58:30 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:30 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 9 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:30 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:30 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:30 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:30 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:30 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:30 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:30 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:30 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:30 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:30 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:30 svg2mod 304:  Inlining 2 segments...
+01-06 20:58:30 svg2mod 339:  Writing Text with 53 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 16 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:30 svg2mod 339:  Writing Text with 7 points
+01-06 20:58:31 com_github_gregdavill_KiBuzzard.plugin 60:Running KiBuzzard
+01-06 20:58:31 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:58:31 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:58:31 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:31 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 9 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:31 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:31 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:31 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:31 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:31 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:31 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:31 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:31 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:31 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:31 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:31 svg2mod 304:  Inlining 2 segments...
+01-06 20:58:31 svg2mod 339:  Writing Text with 53 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 16 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:31 svg2mod 339:  Writing Text with 7 points
+01-06 20:58:31 com_github_gregdavill_KiBuzzard.plugin 74:Loading label onto clipboard
+01-06 20:58:31 com_github_gregdavill_KiBuzzard.plugin 135:Using wx.KeyEvent for paste
+01-06 20:58:31 com_github_gregdavill_KiBuzzard.plugin 139: Injecting event: <wx._core.KeyEvent object at 0x7f2e4be94940> into window: <wx._core.Window object at 0x7f2e4be977f0>
+01-06 20:58:36 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:36 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:36 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:36 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:36 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:36 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:36 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:36 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:36 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:36 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:36 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:36 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:58:36 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:58:36 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:36 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 9 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:36 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:36 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:36 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:36 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:36 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:36 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:36 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:36 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:36 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:36 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:36 svg2mod 304:  Inlining 2 segments...
+01-06 20:58:36 svg2mod 339:  Writing Text with 53 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 16 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:36 svg2mod 339:  Writing Text with 7 points
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:58:38 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:58:38 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:38 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 9 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:38 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:38 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:38 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:38 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:38 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:38 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:38 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:38 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:38 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:38 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:38 svg2mod 304:  Inlining 2 segments...
+01-06 20:58:38 svg2mod 339:  Writing Text with 53 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 16 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 7 points
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:38 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:58:38 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:58:38 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:38 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 9 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:38 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:38 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:38 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:38 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:38 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:38 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:38 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:38 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:38 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:38 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:38 svg2mod 304:  Inlining 2 segments...
+01-06 20:58:38 svg2mod 339:  Writing Text with 53 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 16 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:38 svg2mod 339:  Writing Text with 7 points
+01-06 20:58:40 com_github_gregdavill_KiBuzzard.plugin 60:Running KiBuzzard
+01-06 20:58:40 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:58:40 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:58:40 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:40 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 9 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:40 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:40 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:40 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:40 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:40 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:40 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:40 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:40 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:40 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:40 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:40 svg2mod 304:  Inlining 2 segments...
+01-06 20:58:40 svg2mod 339:  Writing Text with 53 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 16 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:40 svg2mod 339:  Writing Text with 7 points
+01-06 20:58:40 com_github_gregdavill_KiBuzzard.plugin 84:Updating selected footprint <pcbnew.FOOTPRINT; proxy of <Swig Object of type 'std::deque< FOOTPRINT * >::value_type' at 0x7f2e5d3d36f0> >
+01-06 20:58:40 com_github_gregdavill_KiBuzzard.plugin 92: pos: (99500000, 88500000)
+01-06 20:58:40 com_github_gregdavill_KiBuzzard.plugin 93: orient: 0.0
+01-06 20:58:40 com_github_gregdavill_KiBuzzard.plugin 94: need_flip: False
+01-06 20:58:44 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:46 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:49 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:49 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:49 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:49 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:49 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:49 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:49 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:49 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:49 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:49 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:49 svg2mod 1301:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+01-06 20:58:50 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:58:50 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:58:50 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:50 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 9 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:50 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:50 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:50 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:50 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:50 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:50 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:50 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:50 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:50 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:50 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:50 svg2mod 304:  Inlining 2 segments...
+01-06 20:58:50 svg2mod 339:  Writing Text with 53 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 16 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 7 points
+01-06 20:58:50 com_github_gregdavill_KiBuzzard.plugin 60:Running KiBuzzard
+01-06 20:58:50 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+01-06 20:58:50 svg2mod 263:  Detailed names: [F.SilkS]
+01-06 20:58:50 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:50 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 40 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 9 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 48 points
+01-06 20:58:50 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:50 svg2mod 339:  Writing Text with 42 points
+01-06 20:58:50 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:50 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:50 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:50 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:50 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:50 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:50 svg2mod 304:  Inlining 1 segments...
+01-06 20:58:50 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 37 points
+01-06 20:58:50 svg2mod 304:  Inlining 2 segments...
+01-06 20:58:50 svg2mod 339:  Writing Text with 53 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 39 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 16 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 23 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 13 points
+01-06 20:58:50 svg2mod 339:  Writing Text with 7 points
+01-06 20:58:50 com_github_gregdavill_KiBuzzard.plugin 74:Loading label onto clipboard
+01-06 20:58:50 com_github_gregdavill_KiBuzzard.plugin 135:Using wx.KeyEvent for paste
+01-06 20:58:50 com_github_gregdavill_KiBuzzard.plugin 139: Injecting event: <wx._core.KeyEvent object at 0x7f2e4c292b90> into window: <wx._core.Window object at 0x7f2e4b349120>

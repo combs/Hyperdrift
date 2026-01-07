@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.6-9.0.6~ubuntu22.04.1*%
+%TF.CreationDate,2026-01-07T10:26:54-05:00*%
+%TF.ProjectId,Hyperdrift-Display-Controller,48797065-7264-4726-9966-742d44697370,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.6-9.0.6~ubuntu22.04.1) date 2026-01-07 10:26:54*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X79000000Y-46500000D02*
+X179000000Y-46500000D01*
+X179000000Y-121500000D01*
+X79000000Y-121500000D01*
+X79000000Y-46500000D01*
+M02*
